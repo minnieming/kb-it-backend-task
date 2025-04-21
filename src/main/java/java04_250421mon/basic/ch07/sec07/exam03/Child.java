@@ -1,0 +1,8 @@
+package main.java.java04_250421mon.basic.ch07.sec07.exam03;
+
+public class Child extends Parent{
+    public String field2;
+    public void method3() {
+        System.out.println("Child-method3()");
+    }
+}
